@@ -34,5 +34,5 @@ Ensure you have the following installed:
 <ul>
 <li>Replace input.wav with the name of the input audio file.</li>
 <li>Replace output.wav with the desired name of the output audio file.</li>
-<li></li>Replace factor with a float value to scale the volume (e.g., 2.0 to double, 0.5 to halve).</li>
+<li>Replace factor with a float value to scale the volume (e.g., 2.0 to double, 0.5 to halve).</li>
 </ul>
