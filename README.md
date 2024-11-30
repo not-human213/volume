@@ -1,7 +1,5 @@
 # Volume Adjustment Project 🎵  
 
-This repository contains my **Volume Adjustment** project, developed as part of **CS50 Week 4 Assignment**. This program modifies the volume of audio files in the `.wav` format by scaling their sample values.  
-
 ## Features ✨  
 
 - **Volume Adjustment:** Increase or decrease the volume of `.wav` audio files by a user-defined factor.  
