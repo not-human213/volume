@@ -26,8 +26,8 @@ Ensure you have the following installed:
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/username/volume-adjustment.git  
-   cd volume-adjustment  
+   git clone https://github.com/not-human213/volume.git
+   cd volume  
 2. Run the program:
    ```bash
    ./volume input.wav output.wav factor  
