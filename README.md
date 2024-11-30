@@ -31,8 +31,7 @@ Ensure you have the following installed:
 2. Run the program:
    ```bash
    ./volume input.wav output.wav factor  
-<ul>
-<li>Replace input.wav with the name of the input audio file.</li>
-<li>Replace output.wav with the desired name of the output audio file.
-<li>Replace factor with a float value to scale the volume (e.g., 2.0 to double, 0.5 to halve).</li>
-</ul>
+
+- Replace input.wav with the name of the input audio file.
+- Replace output.wav with the desired name of the output audio file.
+- Replace factor with a float value to scale the volume (e.g., 2.0 to double, 0.5 to halve).
